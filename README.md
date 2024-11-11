@@ -8,7 +8,7 @@ Folyamat:
 
 
 
-# Bálint random jegyzetei:
+# jegyzetek:
 Utils:
 Koppányéknál használva vannak, nem a tutorial része alapból.
 
